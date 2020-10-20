@@ -1,0 +1,17 @@
+body {
+    background-color: #ACBED8;
+    font-family: fantasy;
+} 
+
+#Fotografia1{
+    max-width: 80%;
+    width: 20%; 
+    display: flex;
+    float: left;
+}
+
+.title-greetings{
+    text-align: center;
+    font-family: cursive;
+    color: blue
+}
